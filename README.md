@@ -1,4 +1,4 @@
-# Olá 👋
+# Olá 
 
 Meu nome é Leonardo Gregório, sou estudante de desenvolvimento Python na Vida Nova | Escola de Tecnologia. 🧑🏻‍💻
 
