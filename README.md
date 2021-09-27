@@ -1,4 +1,4 @@
-# Olá, eu sou o Leonardo Gregório🖐
+# Olá! Eu sou o Leonardo Gregório🖐
 
 Sou estudante de desenvolvimento Python na Vida Nova | Escola de Tecnologia. 🧑🏻‍💻
 
