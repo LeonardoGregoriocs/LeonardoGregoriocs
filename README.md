@@ -1,5 +1,5 @@
 # Olá, eu sou o Léo! Seja bem-vindo ao meu GitHub 😀
-Sou estudante de desenvolvimento Python na Vida Nova | Escola de Tecnologia. 🧑🏻‍💻
+Sou uma pessoa que me apaixonei por tecnologia e me dediquei ao estudo de Python durante os últimos meses. Estou procurando uma mudança de carreira para a área de tecnologia, onde possa aplicar tudo o que aprendi e, evoluir cada vez mais na carreira de desenvolvimento de sistemas.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-greg%C3%B3rio-6b8568165/)](https://www.linkedin.com/in/leonardo-greg%C3%B3rio-6b8568165/)
 
