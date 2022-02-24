@@ -1,4 +1,4 @@
-# Bem-vindo ao meu GitHub 😀
+   # Bem-vindo ao meu GitHub 😀
 
 :smiley: Sobre mim:
 
@@ -6,7 +6,7 @@
 
 :round_pushpin:  Sou de Campinas/SP.
 
-:briefcase:  Atualmente sou desenvolvedor de sistemas Junior (Backend).
+:briefcase:  Desenvolvedor de sistemas Junior (Backend).
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-greg%C3%B3rio-6b8568165/)](https://www.linkedin.com/in/leonardo-greg%C3%B3rio-6b8568165/)
