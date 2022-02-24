@@ -1,8 +1,8 @@
-   # Bem-vindo ao meu GitHub 😀
+   ## Bem-vindo ao meu GitHub 😀
 
 :smiley: Sobre mim:
 
-:large_blue_circle:  Olá, meu nome é Leonardo Gregório, tenho 24 anos. 
+:man:  Olá, meu nome é Leonardo Gregório, tenho 24 anos. 
 
 :round_pushpin:  Sou de Campinas/SP.
 
