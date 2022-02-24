@@ -2,11 +2,11 @@
 
 :smiley: Sobre mim:
 
-:large_blue_circle: Olá, meu nome é Leonardo Gregório, tenho 24 anos. 
+:large_blue_circle:  Olá, meu nome é Leonardo Gregório, tenho 24 anos. 
 
-:round_pushpin: Sou de Campinas/SP.
+:round_pushpin:  Sou de Campinas/SP.
 
-:office: Atualmente sou desenvolvedor de sistemas Junior (Backend).
+:briefcase:  Atualmente sou desenvolvedor de sistemas Junior (Backend).
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-greg%C3%B3rio-6b8568165/)](https://www.linkedin.com/in/leonardo-greg%C3%B3rio-6b8568165/)
