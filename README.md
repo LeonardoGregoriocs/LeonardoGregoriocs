@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia e pela minha família!  <img align="right" alt="GI
 
 Sou formado em Logística e estou cursando Análise e Desenvolvimento de Sistemas 📚
 
-Atuo como Desenvolvedor de Sistemas Backend Jr 👨‍💻
+Atuo como Desenvolvedor de Sistemas Backend Jr na KaBuM! 👨‍💻
 
 ## Linguagens:
 
