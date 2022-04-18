@@ -8,21 +8,16 @@ Sou formado em Logística e estou cursando Análise e Desenvolvimento de Sistema
 
 Atuo como Desenvolvedor de Sistemas Backend Jr 👨‍💻
 
-## Linguagens
+## Linguagens:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
 ## Frameworks:
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 
-
-
-
-
-
-
-
+## Contatos:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-greg%C3%B3rio-6b8568165/)](https://www.linkedin.com/in/leonardo-greg%C3%B3rio-6b8568165/)
