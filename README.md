@@ -2,11 +2,9 @@
    
 Olá, meu nome é Leonardo Gregório.. Sou apaixonado por tecnologia e pela minha família! <img align="right" alt="GIF" src="https://github.com/LeonardoGregoriocs/LeonardoGregoriocs/blob/main/code.gif?raw=true" width="180" height="180" />
 
-Sou formado em Logística e estou cursando análise e desenvolvimento de sistemas 📚
+Sou formado em Logística e estou cursando Análise e Desenvolvimento de Sistemas 📚
 
 Atuo com desenvolvedor de sistemas Backend! 👨‍💻
-
-:round_pushpin:Sou de Campinas/SP. 
 
 
 
