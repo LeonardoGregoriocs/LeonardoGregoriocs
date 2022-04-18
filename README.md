@@ -1,10 +1,10 @@
    ## Bem-vindo ao meu GitHub :rocket:
    
-Olá, meu nome é Leonardo Gregório.. Sou apaixonado por tecnologia e pela minha família! <img align="right" alt="GIF" src="https://github.com/LeonardoGregoriocs/LeonardoGregoriocs/blob/main/code.gif?raw=true" width="180" height="180" />
+Olá, meu nome é Leonardo Gregório.. Sou apaixonado por tecnologia e pela minha família! Sou formado em Logística e estou cursando Análise e Desenvolvimento de Sistemas 📚 <img align="right" alt="GIF" src="https://github.com/LeonardoGregoriocs/LeonardoGregoriocs/blob/main/code.gif?raw=true" width="180" height="180" />
 
-Sou formado em Logística e estou cursando Análise e Desenvolvimento de Sistemas 📚
+Atuo como Desenvolvedor de Sistemas Backend Jr 👨‍💻
 
-Atuo com desenvolvedor de sistemas Backend! 👨‍💻
+
 
 
 
