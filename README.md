@@ -8,9 +8,15 @@ Sou formado em Logística e estou cursando Análise e Desenvolvimento de Sistema
 
 Atuo como Desenvolvedor de Sistemas Backend Jr 👨‍💻
 
-## Linguagens:
+## Linguagens
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+
+## Frameworks:
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI(https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+
 
 
 
