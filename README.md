@@ -1,5 +1,4 @@
    ## Bem-vindo ao meu GitHub :rocket:
-
 <img align="right" alt="GIF" src="https://github.com/LeonardoGregoriocs/LeonardoGregoriocs/blob/main/code.gif?raw=true" width="180" height="180" />
 
 Olá, meu nome é Leonardo Gregório.. 👋
