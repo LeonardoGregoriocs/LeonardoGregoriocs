@@ -8,6 +8,8 @@ Sou formado em Logística e estou cursando Análise e Desenvolvimento de Sistema
 
 Atuo como Desenvolvedor de Sistemas Backend Jr na KaBuM! 👨‍💻
 
+
+
 ## Linguagens:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
