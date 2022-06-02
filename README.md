@@ -1,6 +1,6 @@
-   ## Bem-vindo ao meu GitHub :rocket:
+   ## Opa, beleza? Bem-vindo ao meu GitHub :rocket:
 
-Olá, meu nome é Leonardo Gregório.. 👋
+Meu nome é Leonardo Gregório.. 👋
 
 Sou apaixonado por tecnologia e pela minha família!  
 
