@@ -12,7 +12,7 @@ Atuo como Desenvolvedor de Sistemas Backend Jr na KaBuM! 👨‍💻
 
 ## Linguagens:
 
-Python ✅
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
 ## Frameworks:
 
