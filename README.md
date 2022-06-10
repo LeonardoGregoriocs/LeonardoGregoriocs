@@ -2,11 +2,14 @@
 
 Meu nome é Leonardo Gregório.. 👋
 
+
 Sou apaixonado por tecnologia e pela minha família!  
 
-Sou formado em Logística e estou cursando Análise e Desenvolvimento de Sistemas 📚
 
-Atuo como Desenvolvedor de Sistemas Backend Jr na KaBuM! 👨‍💻
+A um pouco mais de 1 ano venho me dedicando nos estudos na área de desenvolvimento de software, buscando aprender cada dia mais! 
+
+
+Atualmente atuo como Desenvolvedor de Sistemas Backend Junior na KaBuM! e estou cursando Análise e desenvolvimento de sistemas 👨‍💻
 
 
 
