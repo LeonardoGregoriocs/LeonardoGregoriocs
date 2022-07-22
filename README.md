@@ -39,5 +39,3 @@ Atualmente atuo como Desenvolvedor de Sistemas Backend Junior na KaBuM! e estou 
 ## Contatos:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-greg%C3%B3rio-6b8568165/)](https://www.linkedin.com/in/leonardo-greg%C3%B3rio-6b8568165/)
-
-![](https://komarev.com/ghpvc/?username=LeonardoGregoriocs)
