@@ -1,41 +1,31 @@
-   ## Opa, beleza? Bem-vindo ao meu GitHub :rocket:
+### Olá, tudo bem? Bem-vindo ao meu GitHub :rocket:
+   
+Meu nome é Leonardo Gregório, sou de Campinas/SP. Atuo como desenvolvedor Junior na KaBuM! e estou no segundo semestre do curso de Analise e Desenvolvimento de Sistemas. A mais de 1 ano venho me dedicando nos estudos na área de desenvolvimento de software, buscando aprendenr cada dia mais! 
+   
+### Linguagens e tecnologias 🛠
+ 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white)
 
-Meu nome é Leonardo Gregório.. 👋
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)
 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-Sou apaixonado por tecnologia e pela minha família!  
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)
 
+### Atualmente estou estudando: 
 
-A mais de 1 ano venho me dedicando nos estudos na área de desenvolvimento de software, buscando aprender cada dia mais! 
-
-
-Atualmente atuo como Desenvolvedor de Sistemas Backend Junior na KaBuM! e estou cursando Análise e desenvolvimento de sistemas 👨‍💻
-
-
-
-## Linguagens:
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-
-## Frameworks:
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-
-## Ferramentas:
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)
 
 
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+<p align="left">
+<a href="https://github.com/LeonardoGregoriocs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=LeonardoGregoriocs&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGregoriocs&layout=compact&langs_count=8&hide=HCL"/>
+</a>
+</p>
 
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LeonardoGregoriocs&repo=GuillaumeFalourd&countColorcountColor)
 
-## Contatos:
+### 📫 Como entrar em contato comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-greg%C3%B3rio-6b8568165/)](https://www.linkedin.com/in/leonardo-greg%C3%B3rio-6b8568165/)
