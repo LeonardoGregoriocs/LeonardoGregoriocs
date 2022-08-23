@@ -1,6 +1,6 @@
 ### Olá, tudo bem? Bem-vindo ao meu GitHub :rocket:
    
-Meu nome é Leonardo Gregório, sou de Campinas/SP. Atuo como desenvolvedor Junior na KaBuM! e estou no segundo semestre do curso de Analise e Desenvolvimento de Sistemas. A mais de 1 ano venho me dedicando nos estudos na área de desenvolvimento de software, buscando aprendenr cada dia mais! 
+Meu nome é Leonardo Gregório, sou de Campinas/SP. Atuo como desenvolvedor Junior na KaBuM! e estou no segundo semestre do curso de Analise e Desenvolvimento de Sistemas. A mais de 1 ano venho me dedicando nos estudos na área de desenvolvimento de software, buscando aprender cada dia mais! 
    
 ### Linguagens e tecnologias 🛠
  
