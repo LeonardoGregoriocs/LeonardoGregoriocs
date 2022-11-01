@@ -24,8 +24,6 @@ Meu nome é Leonardo Gregório, sou de Campinas/SP. Atuo como desenvolvedor Juni
 </a>
 </p>
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LeonardoGregoriocs&repo=GuillaumeFalourd&countColorcountColor)
-
 ### 📫 Como entrar em contato comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-greg%C3%B3rio-6b8568165/)](https://www.linkedin.com/in/leonardo-greg%C3%B3rio-6b8568165/)
