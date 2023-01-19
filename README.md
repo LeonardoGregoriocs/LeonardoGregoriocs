@@ -1,6 +1,8 @@
 ### Olá, tudo bem? Bem-vindo ao meu GitHub :rocket:
    
-Meu nome é Leonardo Gregório, sou de Campinas/SP. Atuo como desenvolvedor Junior na KaBuM! e estou no segundo semestre do curso de Analise e Desenvolvimento de Sistemas. A mais de 1 ano venho me dedicando nos estudos na área de desenvolvimento de software, buscando aprender cada dia mais! 
+Desenvolvedor Backend com experiência em desenvolvimento de software em Python e Golang, utilizando microservices, requisições de API REST, criação de testes unitários, entre outros. 
+
+Minha trajetória no mundo da programação começou em 2021, mais especifico no mês de Março, onde iniciei um curso de desenvolvimento Backend Python, na escola Vida Nova de Tecnologia, desde então venho me dedicando nos estudos, buscando aprender cada dia mais.
    
 ### Linguagens e tecnologias 🛠
  
@@ -11,10 +13,6 @@ Meu nome é Leonardo Gregório, sou de Campinas/SP. Atuo como desenvolvedor Juni
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)&nbsp;
-
-### Atualmente estou estudando: 
-
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)
 
 
 <p align="left">
