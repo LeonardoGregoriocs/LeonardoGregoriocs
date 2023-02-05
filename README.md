@@ -6,13 +6,24 @@ Minha trajetória no mundo da programação começou em 2021, mais especifico no
    
 ### Linguagens e tecnologias 🛠
  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white)
 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) 
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) 
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)&nbsp;
+![Sonarqube](https://img.shields.io/badge/-Sonarqube-05122A?style=flat&logo=Sonarqube)&nbsp;
 
 
 <p align="left">
