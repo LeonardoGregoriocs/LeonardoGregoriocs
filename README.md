@@ -1,6 +1,6 @@
 ### Olá, tudo bem? Bem-vindo ao meu GitHub :rocket:
    
-Desenvolvedor Backend com experiência em desenvolvimento de software em Python e Golang, utilizando microservices, requisições de API REST, criação de testes unitários, entre outros. 
+Desenvolvedor Backend com experiência em desenvolvimento de software em Python e Golang, utilizando microservices.
 
 Minha trajetória no mundo da programação começou em 2021, mais especifico no mês de Março, onde iniciei um curso de desenvolvimento Backend Python, na escola Vida Nova de Tecnologia, desde então venho me dedicando nos estudos, buscando aprender cada dia mais.
    
