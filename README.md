@@ -1,19 +1,8 @@
 ### Bem-vindo ao meu GitHub :rocket:
    
-🚀 Desenvolvedor Backend com mais de um ano de experiência, com foco em Golang e Python, dedicado ao desenvolvimento de software, incluindo a criação de microservices, requisições de API REST e testes unitários. Mantenho-me constantemente atualizado com as últimas tendências do setor e as melhores práticas, garantindo que meu trabalho esteja sempre alinhado com as demandas.
+🚀 Desenvolvedor Backend focado em desenvolvimento em Golang e Python. Conhecimento em controle de versão com Git e GitFlow. Habilidades em bancos de dados, incluindo PostgreSQL, MySQL e Redis, e em mensageria com Kafka, monitoramento através de Grafana e DataDog, além de conhecimento na nuvem da AWS, utilizando serviços como DynamoDB, SNS, SQS e S3. Conhecimento em utilização de contêineres com Docker para simplificar a implantação de aplicações.
 
 🌱 Minha jornada na programação começou em 2021 na escola Vida Nova de Tecnologia. Desde então, minha paixão pelo código me impulsionou a uma busca incessante pelo conhecimento e aprimoramento de minhas habilidades.
-
-🛠️ Experiência com Tecnologias & Ferramentas:
-
-- Linguagens: Golang, Python
-- Frameworks: Flask, FastAPI
-- Controle de Versão: Git, GitFlow
-- Bancos de Dados: PostgreSQL, MySQL, Redis
-- Mensageria: Kafka
-- Monitoramento: Grafana, DataDog
-- Nuvem: AWS (DynamoDB, SNS, SQS, S3)
-- Orquestração: Docker
 
 
 <p align="left">
