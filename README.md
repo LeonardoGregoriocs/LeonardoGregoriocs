@@ -1,6 +1,6 @@
 ### Welcome to my GitHub :rocket:
    
-🚀 Software Developer with focus in Go and Python
+🚀 Software Developer with 2+ years of experience with focus in Go and Python. I'm an effective communicator, team player, problem solver and experienced in working with Agile Methodologies. 
 
 
 <p align="left">
